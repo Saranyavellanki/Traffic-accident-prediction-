@@ -31,8 +31,10 @@ This project predicts the **probability of a road accident being severe** based 
 ```bash
 git clone https://github.com/yourusername/accident-severity-prediction.git
 cd accident-severity-prediction
+```
 
 2️⃣**Install dependencies:**  
 ```bash
 pip install -r requirements.txt
+```
 
