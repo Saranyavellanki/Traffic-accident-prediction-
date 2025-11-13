@@ -41,12 +41,19 @@ This dataset contains detailed information about road accidents in the UK, inclu
 
 1️⃣ **Clone the repository or download ZIP:**  
 ```bash
-git clone https://github.com/yourusername/accident-severity-prediction.git
-cd accident-severity-prediction
+git clone https://github.com/Saranyavellanki/Traffic-accident-prediction-
+cd Traffic-accident-prediction-
 ```
 
 2️⃣**Install dependencies:**  
 ```bash
 pip install -r requirements.txt
 ```
+###  Train the Model
+
+Run the following command to train the model and save the necessary files (`.pkl`):
+
+```bash
+python train_model.py
+
 
